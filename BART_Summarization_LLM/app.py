@@ -83,7 +83,7 @@ iface = gr.Interface(
         gr.File(label="Upload .txt or .pdf file")
     ],
     outputs=gr.Textbox(label="Summary"),
-    title="Text Summarization (Project for Ifortex)",
+    title="Summarizer",
     description="Paste text or upload a .txt/.pdf file to generate a concise summary using BART model"
 )
 
