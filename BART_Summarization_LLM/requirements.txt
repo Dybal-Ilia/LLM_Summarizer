@@ -1,0 +1,6 @@
+transformers
+nltk
+logging
+gradio
+PyPDF2
+torch
